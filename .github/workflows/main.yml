@@ -13,7 +13,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: materusPL
-          template: markdown
+          template: classic
           config_animations: yes
           config_timezone: Europe/Warsaw
           optimize: no
