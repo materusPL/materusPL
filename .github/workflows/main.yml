@@ -13,3 +13,9 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_reactions: yes
+          plugin_reactions_details: count
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          commits_authoring: Mateusz Słodkowicz, materus, materusPL , materus@podkos.pl
