@@ -18,4 +18,4 @@ jobs:
           plugin_reactions_details: count
           plugin_languages: yes
           plugin_gists: yes
-          plugin_followup: yes
+          plugin_languages_details: bytes-size, percentage, lines
