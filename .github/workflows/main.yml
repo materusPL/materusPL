@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
   push: {branches: ["master"]}
 jobs:
@@ -17,5 +17,3 @@ jobs:
           plugin_reactions: yes
           plugin_reactions_details: count
           plugin_languages: yes
-          plugin_languages_indepth: yes
-          commits_authoring: Mateusz Słodkowicz, materus, materusPL , materus@podkos.pl
