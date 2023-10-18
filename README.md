@@ -7,7 +7,7 @@
 * Languages:
     * Polish
     * English 
-* Favortie programming language: **D**
+* Favorite programming language: **D**
 
 ## Metrics
 
