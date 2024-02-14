@@ -7,7 +7,6 @@
 * Languages:
     * Polish
     * English 
-* Favorite programming language: [**D**](https://dlang.org)
 
 ## Metrics
 
