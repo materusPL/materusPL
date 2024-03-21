@@ -1,6 +1,6 @@
 [![View Counter](https://komarev.com/ghpvc/?username=materusPL&color=blueviolet&label=Views&style=for-the-badge)](https://github.com/materusPL)
 
-## Info
+## ℹ️ Info
 
 * Nickname: [**materus**](https://materus.pl)
 * Realname: **Mateusz Słodkowicz**
@@ -8,8 +8,9 @@
 * Country: **Poland**
 * Languages:
     * Polish
-    * English 
-  
+    * English
+ 
+# 💻 Tech
  \
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
@@ -20,7 +21,7 @@
  \
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://nixos.org/)
-## Contact and Socials
+## 🌐 Contact and Socials
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:materus@podkos.pl)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/materusPL)
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/materus)
@@ -37,7 +38,7 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198012330084)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/11163915972)
 [![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/mateusz-s-odkowicz)
-## Metrics
+## 📊 Metrics
 
 ![Metrics](/github-metrics.svg)
 ![](https://hit.yhype.me/github/profile?user_id=28183516)
