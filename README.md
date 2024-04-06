@@ -1,6 +1,6 @@
 [![View Counter](https://komarev.com/ghpvc/?username=materusPL&color=blueviolet&label=Views&style=for-the-badge)](https://github.com/materusPL)
 
-## ℹ️ Info
+## ⭐ Info
 
 * Nickname: [**materus**](https://materus.pl)
 * Realname: **Mateusz Słodkowicz**
