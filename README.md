@@ -1,4 +1,5 @@
-[![View Counter](https://komarev.com/ghpvc/?username=materusPL&color=blueviolet&label=Views&style=for-the-badge)](https://github.com/materusPL)
+[![View Counter](https://komarev.com/ghpvc/?username=materusPL&color=blueviolet&label=Views&style=for-the-badge)](https://github.com/materusPL) \
+[![Gists](https://img.shields.io/badge/Gists-black?style=flat-square&logo=github)](https://gist.github.com/materusPL)
 
 ## ⭐ Info
 
