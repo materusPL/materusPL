@@ -1704,23 +1704,23 @@
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
               <g>
                 
-                  <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                 
-                  <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                  <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                 
-                  <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
-                  <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                  <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
                   <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -1728,7 +1728,7 @@
                 
                   <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                  <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                 
                   <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
@@ -1758,7 +1758,7 @@
           </h2>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
-            739 Commits
+            741 Commits
           </div>
           <div class="field">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/></svg>
@@ -1892,21 +1892,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="204.02160551683866" height="8" fill="#7e7eff"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="203.67183999080783" height="8" fill="#7e7eff"/>
             
-              <rect mask="url(#languages-bar)" x="204.02160551683866" y="0" width="142.45211999157277" height="8" fill="#89e051"/>
+              <rect mask="url(#languages-bar)" x="203.67183999080783" y="0" width="140.95421156734486" height="8" fill="#89e051"/>
             
-              <rect mask="url(#languages-bar)" x="346.47372550841146" y="0" width="24.364068884173925" height="8" fill="#dea584"/>
+              <rect mask="url(#languages-bar)" x="344.6260515581527" y="0" width="26.230378437825728" height="8" fill="#c065db"/>
             
-              <rect mask="url(#languages-bar)" x="370.83779439258535" y="0" width="23.887135062681548" height="8" fill="#b07219"/>
+              <rect mask="url(#languages-bar)" x="370.8564299959784" y="0" width="24.107876529632396" height="8" fill="#dea584"/>
             
-              <rect mask="url(#languages-bar)" x="394.7249294552669" y="0" width="23.435383346963963" height="8" fill="#c065db"/>
+              <rect mask="url(#languages-bar)" x="394.96430652561077" y="0" width="23.635957748906378" height="8" fill="#b07219"/>
             
-              <rect mask="url(#languages-bar)" x="418.16031280223086" y="0" width="20.51883764177376" height="8" fill="#ba595e"/>
+              <rect mask="url(#languages-bar)" x="418.6002642745172" y="0" width="20.30307855190696" height="8" fill="#ba595e"/>
             
-              <rect mask="url(#languages-bar)" x="438.6791504440046" y="0" width="16.018108555114473" height="8" fill="#f34b7d"/>
+              <rect mask="url(#languages-bar)" x="438.90334282642414" y="0" width="15.849675401951693" height="8" fill="#f34b7d"/>
             
-              <rect mask="url(#languages-bar)" x="454.69725899911913" y="0" width="5.302741000880876" height="8" fill="#E3F171"/>
+              <rect mask="url(#languages-bar)" x="454.7530182283758" y="0" width="5.24698177162414" height="8" fill="#E3F171"/>
             
           </svg>
         
@@ -1922,20 +1922,8 @@
                     </div>
                     <small>
                       
-                       <div>267 kB</div>
-                       <div>44.35%</div>
-                    </small>
-                  </div>
-                
-                  <div class="field language details">
-                    <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Rust
-                    </div>
-                    <small>
-                      
-                       <div>31.9 kB</div>
-                       <div>5.3%</div>
+                       <div>269 kB</div>
+                       <div>44.28%</div>
                     </small>
                   </div>
                 
@@ -1946,8 +1934,20 @@
                     </div>
                     <small>
                       
-                       <div>30.7 kB</div>
-                       <div>5.09%</div>
+                       <div>34.7 kB</div>
+                       <div>5.7%</div>
+                    </small>
+                  </div>
+                
+                  <div class="field language details">
+                    <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      Java
+                    </div>
+                    <small>
+                      
+                       <div>31.3 kB</div>
+                       <div>5.14%</div>
                     </small>
                   </div>
                 
@@ -1959,7 +1959,7 @@
                     <small>
                       
                        <div>20.9 kB</div>
-                       <div>3.48%</div>
+                       <div>3.45%</div>
                     </small>
                   </div>
                 
@@ -1975,19 +1975,19 @@
                     <small>
                       
                        <div>186 kB</div>
-                       <div>30.97%</div>
+                       <div>30.64%</div>
                     </small>
                   </div>
                 
                   <div class="field language details">
                     <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Java
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      Rust
                     </div>
                     <small>
                       
-                       <div>31.3 kB</div>
-                       <div>5.19%</div>
+                       <div>31.9 kB</div>
+                       <div>5.24%</div>
                     </small>
                   </div>
                 
@@ -1999,7 +1999,7 @@
                     <small>
                       
                        <div>26.8 kB</div>
-                       <div>4.46%</div>
+                       <div>4.41%</div>
                     </small>
                   </div>
                 
@@ -2011,7 +2011,7 @@
                     <small>
                       
                        <div>6.95 kB</div>
-                       <div>1.15%</div>
+                       <div>1.14%</div>
                     </small>
                   </div>
                 
@@ -2347,7 +2347,7 @@
           
             <span>These metrics do not include all private contributions</span>
           
-          <span>Last updated 23 May 2025, 03:15:52 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 24 May 2025, 03:13:05 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 
